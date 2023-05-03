@@ -13,7 +13,7 @@
  - [Emanuele Brum Rossi](https://github.com/Sunny1506/2-ano-a-sesi)
  - [Erick Matheus Frias Rafael](https://github.com/KINDERzin/2-ano-a-sesi)
  - [Gabriela Viane Werner Silva](https://github.com/gabrielawerner/2-ano-a-sesi)
- - [Joabe Arthur Oliveira dos Santos](https://github.com/joabeArthur/2-ano-a-sesi
+ - [Joabe Arthur Oliveira dos Santos](https://github.com/joabeArthur/2-ano-a-sesi)
  - [Luana Moraes](https://github.com/kimyenseo/2-ano-a-sesi)  
  - João Guilherme Ribeiro Silva
  - [Lucas Mathias Belini](https://github.com/lucasmathiasbelini/2-ano-a-sesi)
