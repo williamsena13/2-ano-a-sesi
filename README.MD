@@ -1,51 +1,116 @@
 # Desenvolvimento De Sistema 2º Ano A
 #### Professor: [William B. Sena](https://github.com/williamsena13)
 
-# Atenção Alunos que estão com atividade em atraso, devem corrigir no dia 12/05/2023, caso contrário ficarão sem nota ou com nota parcial.
+## Ultima entrega com atividades corrigidas *19/05/2023*
 
 #### Alunos:
 - [Alifer Gabriel Martins da Silva](https://github.com/alifergabriel/2-ano-sesi)
+-- Corrigir Nome Próprio com letra minuscula no arquivo ```alifer-gabriel.md```;
+-- Faltou incluir Turma no arquivo ```alifer-gabriel.md```;
+-- Faltou Dados da Equipe 
+-- Faltou manipular CSS por ID e por Class
 - [Amabily Vitoria de Carvalho Mangolin](https://github.com/AmabilyCarvalho/2-ano-sesi)
+-- Corrigir Nome ```amabily.md```;
+-- Faltou incluir Turma no arquivo ```amabily.md```;
+-- Excluir arquivos em duplicidade
+-- Faltou HTML da Equipe
+-- Faltou manipular CSS por ID e por TAG
 - [Amanda Letícia Raymundo](https://github.com/euamanda21/2-ano-sesi)
+-- Corrigir Nomeno arquivo ```amabily.md```;
+-- Faltou incluir Turma no arquivo ```amanda-leticia..md```;
+-- Faltou HTML das equipes 
+-- Faltou CSS
 - [Anna Heloisa Quinquim Sant Ana](https://github.com/anninha2006/2-ano-sesi)
+-- Arquivo sem Informação```anna-heloisa-quinquim-santana.md```; 
 - [Ana Meylissa Cardoso de Lima](https://github.com/annamcardos0/2-ano-sesi)
-    -- Excluir pastas que estão em duplicidade
-- [Arthur Costa Vieira](https://github.com/ArthurCostaVieira/2-ano-sesi) ( Atividade em Atraso)
+-- Nome e turma não deve estar na mesma linha no arquivo ```ana-cardoso.md```
+-- Title está com nome incorreto
+-- H1 falta nome completo
+-- Existe uma tag p que está com erro
+-- Faltou manipular CSS por classe
+-- Faltou manipular CSS por ID
+- [Arthur Costa Vieira](https://github.com/ArthurCostaVieira/2-ano-sesi) (Muito Bom)
+-- Falta Turma no arquivo ```arthur-costa-vieira.md```
 - [Arthur Matheus Freitas da Silva](https://github.com/Arthurprocuracasadas/2-ano-sesi)
+-- CONFERIR SE ESTÁ FUNCIONANDO
+-- Retirar tag ```style``` que não está em uso
 - [Caio Matheus Brenan de Oliveira](https://github.com/draazy/2-ano-sesi) ( Atividade em Atraso)
-    -- Corrigir estrutura do arquivo ```index.html```. Passar TAG ```<h1>``` para dentro da TAG ```<body>```
+-- Falta turma no arquivo ```caiobrenan.md```
+-- falta estrutura de pastas de Projeto Web
+-- Corrigir nome de ```index.HTML```para ```index.html```
+-- Corrigir estrutura do arquivo ```index.html```. Passar TAG ```<h1>``` para dentro da TAG ```<body>```
+-- Falta CSS
 - [Davi Camacho Matias](https://github.com/davicama31/2-ano-sesi)
-    -- Ajustar nome da pasta ```davi camachhoo``` para ```davi-camachhoo```. Ajustar estrutura de Pastas.
+-- Ajustar nome da pasta ```davi camachhoo``` para ```davi-camachhoo```. Ajustar estrutura de Pastas.
+-- Falta CSS
 - [Eduardo Henrick Jonas Da Silva](https://github.com/rainynew/2-ano-sesi)
+-- Função ```<button click="outraFuncao()">Cadastrar!</button>``` está errada deve ser ```onClick```
+-- TAG de ```<script> src="script.js"</script>```
 - [Emanuele Brum Rossi](https://github.com/Sunny1506/2-ano-sesi)
+-- Falta ajusta repositórios
 - [Erick Matheus Frias Rafael](https://github.com/KINDERzin/2-ano-sesi) 
-    -- Corrigir estrutura de arquivos. Me procurar na próxima aula para corrigir. 
+-- Corrigir estrutura de pastas
 - [Gabriela Viane Werner Silva](https://github.com/gabrielawerner/2-ano-sesi) ( Atividade em Atraso)
-    -- Corrigir estrutura de pastas. Corrigir nome do arquivo e incluir na pasta com o nome completo.
+-- Corrigir HTML, incluir nome da Equipe
+-- Incluir CSS 
+-- Incluir Estrutura de Pastas
 - [Joabe Arthur Oliveira dos Santos](https://github.com/joabeArthur/2-ano-sesi)
+-- Incluir Turma no arquivo ```joabe.md```
+-- CSS por Classe
+-- CSS por Tag
 - Luana Vitória Valério Moreto
 - [Luana Moraes](https://github.com/kimyenseo/2-ano-sesi)
+-- Corrigir Fotos
 - [João Guilherme Ribeiro Silva](https://github.com/MinhocaPirata/2-ano-a-sesi) (Atividade em Atraso)
-    -- CSS Incompleto.
+-- HTML Incompleto
+-- CSS Incompleto.
 - [Lucas Mathias Belini](https://github.com/lucasmathiasbelini/2-ano-sesi)
+-- Falta Atualizar Projeto
+-- Falta CSS
+-- Falta JS
 - [Lucas Vinícius Santos da Costa](https://github.com/H4KAIzin/2-ano-sesi) 
+-- Falta incluir nome da Equipe
+-- Mudar CSS 
 - [Luis Gustavo Policarpo de Moraes](https://github.com/Luizinho007/2-ano-sesi)
+-- Corrigir estrutura de pastas
+-- Incluir nome da turma no arquivo ```luis.md```
+-- Incluir estrutura de arquivos
 - [Luiz Miguel Rocha Ramos](https://github.com/LuizMiguelRocha/2-ano-sesi) (Atividade em atraso)
-    --- Corrigir ```<meta charset="UTH - 8">``` (Em atraso)
+-- Incluir nome da turma no arquivo ```LuizMiguel.md```
 - [Maria Angélica De Freitas De Souza](https://github.com/Maryangelica05/2-ano-sesi) (Atividade em Atraso)
 - [Maria Eduarda Konevaliki Lazore](https://github.com/dudaSesi43/2-ano-sesi)
+-- Falta incluir Javascript
+-- Corrigir estrutura de arquivos
 - [Maria Fernanda De Lima Silva](https://github.com/mahfersesi/2-ano-sesi)
+-- Incluir nome da equipe
+-- Falta nome da Equipe
+-- Falta CSS
 - [Rayssa Cardoso Gonçalves](https://github.com/raysinhasogarau/2-ano-sesi)
+-- Corrigir estrutura de Pastas
+-- Falta CSS por ID
+-- Falta CSS por TAG
 - [Nicolas de Almeida Soares](https://github.com/Voyagerbr/2-ano-a-sesi)(Atividade em atraso)
+-- Falta CSS por class
     -- Alterar ```index.css``` para ```main.css```. Incluir Pasta ```css``` e mover o ```main.css``` para ela.
 - [Pâmela Isabeli dos Santos](https://github.com/pamelinha1/2-ano-a-sesi) (Atividade em Atraso)
-    -- Incluir pasta com seu nome, e mover arquivo ```index.html```para ele. Corrigir nome da pasta de ```Pâmela Isabeli dos Santos``` para ```pamela-isabeli-dos-santos```
+-- falta equipe no arquivo ```pamela-isabeli.md
+-- Incluir CSS
+-- Incluir pasta com seu nome, e mover arquivo ```index.html```para ele. Corrigir nome da pasta de ```Pâmela Isabeli dos Santos``` para ```pamela-isabeli-dos-santos```
 - [Pedro Bertasso Fernandes](https://github.com/Anonymus101010/2-ano-sesi) (Ativdade em atraso)
-    -- Corrigir estrutura de Pastas
+-- Corrigir estrutura de Pastas
+-- Revisar CSS
+-- Ajustar Função do Botão
 - [Renato Henrique Doomingues](https://github.com/rt-xit/2-ano-sesi) (Atividade em atraso)
-    -- Falta incluir informações no ```index.html```
+-- Falta incluir informações no ```index.html```
+-- Atividade em atraso
+-- Falta HTML das Equipes
+-- Falta CSS 
+-- Falta JS
 - [Vitor Hugo dos Santos](https://github.com/euvitin37/2-ano-sesi) (Atividade em atraso)
-    -- Falta incluir informações no ```index.html```, Nome da equipe. Corrigir nome da pasta para ```vitor-hugo-dos-santos```
+-- Falta incluir informações no ```index.html```, Nome da equipe. 
+-- Corrigir nome da pasta para ```vitor-hugo-dos-santos```
+-- Incluir estrutura da equipe em HTML5
+-- Falta CSS
 
 
 ### Este projeto será desenvolvido junto aos alunos do Segundo Ano A do SESI de Apucarana.
