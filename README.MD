@@ -1,42 +1,132 @@
 # Desenvolvimento De Sistema 2º Ano A
 #### Professor: [William B. Sena](https://github.com/williamsena13)
 
-## Ultima entrega com atividades corrigidas *19/05/2023*
+## Ultima entrega  *01/06/2023*
+## Correção das atividades *02/06/2023*
 
 #### Alunos:
-01 - [Amabily Vitoria de Carvalho Mangolin](https://github.com/AmabilyCarvalho)
-02 - [Alifer Gabriel Martins da Silva](https://github.com/alifergabriel)
-03 - [Amanda Letícia Raymundo](https://github.com/euamanda21)
-04 - [Ana Meylissa Cardoso de Lima](https://github.com/annamcardos0)
-05 - [Anna Heloisa Quinquim Sant Ana](https://github.com/anninha2006)
-06 - [Arthur Costa Vieira](https://github.com/ArthurCostaVieira)
-07 - [Arthur Matheus Freitas da Silva](https://github.com/Arthurprocuracasadas)
-08 - [Caio Matheus Brenan de Oliveira](https://github.com/draazy)
-09 - [Davi Camacho Matias](https://github.com/davicama31)
-10 - [Eduardo Henrick Jonas Da Silva](https://github.com/rainynew)
-11 - [Emanuele Brum Rossi](https://github.com/Sunny1506)
-12 - [Erick Matheus Frias Rafael](https://github.com/KINDERzin) 
-13 - [Gabriela Viane Werner Silva](https://github.com/gabrielawerner)
-14 - [Joabe Arthur Oliveira dos Santos](https://github.com/joabeArthur)
-15 - [João Guilherme Ribeiro Silva](https://github.com/MinhocaPirata) 
-16 - [Kawan Silva Costa](https://github.com/kawan-70/2-ano-b-sesi)
-17 - [Larrissa de Souza dos Santos]()
-18 - [Luana Vitoria Moraes Gamoroni](https://github.com/kimyenseo)
-19 - [Lucas Mathias Belini](https://github.com/lucasmathiasbelini)
-20 - [Lucas Vinícius Santos da Costa](https://github.com/H4KAIzin) 
-21 - [Luis Gustavo Policarpo de Moraes](https://github.com/Luizinho007)
-22 - [Luiz Miguel Rocha Ramos](https://github.com/LuizMiguelRocha) 
-23 - [Maria Angélica De Freitas De Souza](https://github.com/Maryangelica05) 
-24 - [Maria Eduarda Konevaliki Lazore](https://github.com/dudaSesi43)
-25 - [Maria Fernanda De Lima Silva](https://github.com/mahfersesi)
-26 - [Nicolas de Almeida Soares](https://github.com/Voyagerbr) 
-27 - [Pâmela Isabeli dos Santos](https://github.com/pamelinha1) 
-28 - [Pedro Bertasso Fernandes](https://github.com/Anonymus101010) 
-29 - [Rayssa Cardoso Gonçalves](https://github.com/raysinhasogarau)
-30 - [Renato Henrique Doomingues](https://github.com/rt-xit) 
-31 - [Vitor Hugo dos Santos](https://github.com/euvitin37) 
-
-
-### Este projeto será desenvolvido junto aos alunos do Segundo Ano A do SESI de Apucarana.
-
-
+- 01 - [Amabily Vitoria de Carvalho Mangolin](https://github.com/AmabilyCarvalho)
+-- Faltou customizar tag ```<title>```
+-- Faltou customizar tag ```<nav>```
+-- Faltou customizar tag ```<footer>```
+-- Existem tags ```<svg></svg>``` que não está sendo utilizado. 
+- 02 - [Alifer Gabriel Martins da Silva](https://github.com/alifergabriel)
+-- Faltou customizar tag ```<title>```
+-- Faltou customizar tag ```<nav>```
+-- Faltou customizar tag ```<footer>```
+-- Faltou customizar conteúdo do site
+-- Faltou customizar imagens
+- 03 - [Amanda Letícia Raymundo](https://github.com/euamanda21)
+-- Faltou customizar conteúdo da tag ```<nav>```
+-- Faltou customizar tag ```<title>```
+-- Faltou customizar tag ```<nav>```
+-- Conteúdo do site está com erro na estrutura do HTML
+-- Faltou customizar tag ```<footer>```
+-- Faltou criar repositório para ```github.io```
+-- Faltou ajustar projeto para funcionar no github.io
+- 04 - [Ana Meylissa Cardoso de Lima](https://github.com/annamcardos0)
+-- Erro na estrutura do projeto
+-- Imagens com problema
+-- Conteúdo não foi customizado corretamente
+-- Retirar conteúdo que não irá utilizar
+-- Existem links que não funcionam 
+-- Gitgub.io não funciona
+- 05 - [Anna Heloisa Quinquim Sant Ana](https://github.com/anninha2006)
+-- Projeto não está funcionando
+-- Não foi customizado o HTML do site
+-- Gitgub.io não funciona
+-- Trabalho não foi entregue
+- 06 - [Arthur Costa Vieira](https://github.com/ArthurCostaVieira)
+-- Navegação sobre Buracos Negros não está funcionando
+- 07 - [Arthur Matheus Freitas da Silva](https://github.com/Arthurprocuracasadas)
+-- Faltou customizar tag ```<title>```
+- 08 - [Caio Matheus Brenan de Oliveira](https://github.com/draazy)
+-- Faltou tustomizar tag ```<nav>```
+-- Faltou customizar tag ```<button>```
+-- Faltou customizar tag ```<footer>```
+-- Github não funciona
+- 09 - [Davi Camacho Matias](https://github.com/davicama31)
+-- Erro na estrutura HTML da tag ```<nav>```
+-- Erro na estrutura do Projeto
+-- Faltou customizar tag ```<footer>```
+-- Faltou retirar tag ```<svg>```
+- 10 - [Eduardo Henrick Jonas Da Silva](https://github.com/rainynew)
+-- Faltou customizar tag ```<nav>```da página albun
+-- Imagem com problema
+- 11 - [Emanuele Brum Rossi](https://github.com/Sunny1506)
+-- Faltou customizar tag ```<footer>``` da página carousel2
+-- Faltou customizar tag ```<footer>``` da página carousel
+- 12 - [Erick Matheus Frias Rafael](https://github.com/KINDERzin) 
+-- Faltou customizar tag ```<footer>```
+-- Navegação do inscreva-se está errado
+- 13 - [Gabriela Viane Werner Silva](https://github.com/gabrielawerner)
+-- Gitgub.io não existe
+-- Faltou customizar tag ```<title>```
+-- Faltou customizar tag ```<nav>```
+-- Não foi finalizado customização do conteúdo
+-- Faltou customizar tag ```<footer>```
+- 14 - [Joabe Arthur Oliveira dos Santos](https://github.com/joabeArthur)
+-- Faltou customizar tag ```<title>```
+-- Não é possível identificar conteúdos das imagens do carousel.
+- 15 - [João Guilherme Ribeiro Silva](https://github.com/MinhocaPirata) 
+-- Você apresentaria esse conteúdo?
+- 16 - [kawan Silva Costa](https://github.com/kawan-70)
+-- github.io não funciona
+-- Estrutura do github.io está incorreta
+-- Conteúdo?
+-- Faltou customizar tag ```<title>```
+-- Faltou customizar tag ```<footer>```
+-- Repensar layout do novo site
+- 17 - [Larrissa de Souza dos Santos]()
+-- Trabalho não foi entregue
+- 18 - [Luana Vitoria Moraes Gamoroni](https://github.com/kimyenseo)
+-- Erro na estrutura do HTML
+-- Faltou customizar tag ```<title>```
+-- Faltou customizar tag ```<nav>```    
+-- Faltou customizar tag ```<footer>```
+- 19 - [Lucas Mathias Belini](https://github.com/lucasmathiasbelini)
+-- Faltou customizar tag ```<title>```
+-- Faltou customizar tag ```<nav>```    
+-- Faltou customizar tag ```<footer>```
+-- Faltou aplicar estilos a imagens 
+- 20 - [Lucas Vinícius Santos da Costa](https://github.com/H4KAIzin) 
+-- Erro na estrutura do github.io
+-- Faltou customizar tag ```<title>```
+-- Faltou customizar tag ```<nav>```    
+-- Faltou customizar tag ```<footer>```
+- 21 - [Luis Gustavo Policarpo de Moraes](https://github.com/Luizinho007)
+-- Faltou customizar tag ```<nav>```
+-- Imagens com erro
+- 22 - [Luiz Miguel Rocha Ramos](https://github.com/LuizMiguelRocha) 
+-- Muito bom
+- 23 - [Maria Angélica De Freitas De Souza](https://github.com/Maryangelica05)
+-- Faltou customizar tag ```<title>``` 
+-- Faltou customizar tag ```<footer>```
+- 24 - [Maria Eduarda Konevaliki Lazore](https://github.com/dudaSesi43)
+-- Faltou customizar tag ```<title>``` 
+-- Faltou customizar tag ```<nav>```    
+-- Faltou customizar tag ```<footer>```
+-- Faltou alterar imagens 
+- 25 - [Maria Fernanda De Lima Silva](https://github.com/mahfersesi)
+-- Faltou customizar tag ```<footer>```
+- 26 - [Nicolas de Almeida Soares](https://github.com/Voyagerbr) 
+-- Poderia incluir mais conteúdo
+- 27 - [Pâmela Isabeli dos Santos](https://github.com/pamelinha1) 
+- 28 - [Pedro Bertasso Fernandes](https://github.com/Anonymus101010) 
+-- github.io está vazio
+-- Imagens não funcionam
+- 29 - [Rayssa Cardoso Gonçalves](https://github.com/raysinhasogarau)
+-- Faltou customizar tag ```<title>```
+-- Faltou customizar tag ```<nav>```
+-- Erro na estrutura tag ```<main>```
+-- Faltou customizar tag ```<footer>```
+- 30 - [Renato Henrique Doomingues](https://github.com/rt-xit) 
+-- Erro na estrutura do github.io
+-- Faltou customizar tag ```<title>```
+-- Faltou customizar tag ```<nav>```
+-- Faltou customizar tag ```<footer>```
+- 31 - [Vitor Hugo dos Santos](https://github.com/euvitin37) 
+-- Faltou customizar tag ```<title>```
+-- Faltou customizar tag ```<nav>```
+-- Faltou customizar tag ```<footer>```
+-- Erro na estrutura do carousel
